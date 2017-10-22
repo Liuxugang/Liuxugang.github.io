@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Liuxugang Blog
+SEOTitle: 刘旭刚的博客 | liuxugang Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: mr.liuxugang@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "Liuxugang, Liuxugang Blog, 刘旭刚的博客, 刘旭刚, Java, 搜索, 爬虫"
+url: "http://Liuxugang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
