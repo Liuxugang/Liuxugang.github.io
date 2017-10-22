@@ -1,30 +1,29 @@
 ---
 layout: page
 title: "About"
-description: "Hey, this is BY."
+description: "千里之行始于足下"
 header-img: "img/post-bg-rwd.jpg"
 ---
 
 <!-- Language Selector -->
 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
+    <!-- <option value="1"> 英文 English </option> -->
 </select>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
 
     <!--copied from markdown -->
-    <blockquote><p>冰冻三尺 非一日之寒，<br>
-    积土成山 非斯须之作</p></blockquote>
+    <blockquote><p>冥冥中的偶然也是冥冥中的必然，机会留给有准备的人</p></blockquote>
 
-    <p>Hey，我是<strong>柏荧(BY)</strong>，一只iOS程序猿，现在厦门工作。</p>
+    <p>Hey，我是<strong>刘旭刚</strong>，一只后端开发者，主要从事爬虫与搜索相关工作，北漂ing</p>
 
-    <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/qiubaiying">👉GitHub·BY</a> 与 简书主页<a href="https://http://www.jianshu.com/u/e71990ada2fd">👉BY</a>。</p>
+    <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/Liuxugang">👉GitHub·BY</a></p>
 
-    <p>工作、学习之余，我特别喜欢运动，跑步、健身和自由搏击都是我特别喜欢的运动。</p>
+    <p>工作、学习之余，我特别喜欢运动，跑步、健身、游泳等业余活动，此外还是个业余摄影爱好者。</p>
 
-    <p></p>
+    <p>作为一个后端开发者，对前端的开发很难做到简洁优美，参考了如下博客以及使用工具，在此表示感谢</p>
     
     <h5>Talks</h5>
 
@@ -32,11 +31,11 @@ header-img: "img/post-bg-rwd.jpg"
     <li><a href="https://github.com">GitHub</a></li>
     <li><a href="http://jekyll.com.cn/">jekyll</a></li>
     <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-    <li><a href="http://huangxuan.me/">Hux</a></li>    </ul>
+    <li><a href="http://qiubaiying.top/">Hux</a></li>    </ul>
 </div>
 
 <!-- English Version -->
-<div class="en post-container">
+<!-- <div class="en post-container">
     <blockquote><p>Yet another iOS Developer. <br>
     Yet another Life-long Student.</p></blockquote>
 
@@ -54,7 +53,7 @@ header-img: "img/post-bg-rwd.jpg"
     <li><a href="https://pages.github.com/">GitHub Pages</a></li>
     <li><a href="https://qiubaiying.github.io">BY</a></li>
     </ul>
-</div>
+</div> -->
 
 <!-- Handle Language Change -->
 <script type="text/javascript">
@@ -88,7 +87,8 @@ header-img: "img/post-bg-rwd.jpg"
         if(index == 0){
             window.location.hash = "#zh"
         }else{
-            window.location.hash = "#en"
+            // window.location.hash = "#en"
+            window.location.hash = "#zh"
         }
     }
 
