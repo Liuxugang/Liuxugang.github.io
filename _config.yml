@@ -11,7 +11,7 @@ github_repo: "https://github.com/Liuxugang/Liuxugang.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "just do it!"
+sidebar-about-description: "Rome was not built in one day"
 sidebar-avatar: /img/post-bg-desk2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
