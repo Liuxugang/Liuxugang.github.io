@@ -1,5 +1,5 @@
 # Site settings
-title: Liuxugang Blog
+title: Catkin Blog
 SEOTitle: 刘旭刚的博客 | liuxugang Blog
 header-img: img/post-bg-desk.jpg
 email: mr.liuxugang@gmail.com
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
+zhihu_username:     L_xugang
+github_username:    Liuxugang
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
