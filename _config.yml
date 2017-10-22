@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     L_xugang
 github_username:    Liuxugang
-facebook_username:  baiying.qiu.7
+facebook_username:  Liuxugang
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -82,7 +82,7 @@ ga_domain: auto
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
