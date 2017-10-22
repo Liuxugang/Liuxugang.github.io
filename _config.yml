@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Liuxugang, Liuxugang Blog, 刘旭刚的博客, 刘旭刚, Java, 搜索, 爬虫"
 url: "http://Liuxugang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Liuxugang/Liuxugang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -56,7 +56,8 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+#暂时关掉 之后再弄
+#disqus_username: qiubaiying
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
