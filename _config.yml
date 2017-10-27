@@ -101,10 +101,10 @@ friends: [
         title: "elastic",
         href: "https://www.elastic.co/cn"
     },{
-        title: "相关博客1",
+        title: "kafka相关博客",
         href: "http://www.jasongj.com/"
     },{
-        title: "相关博客2",
+        title: "kafka相关博客",
         href: "http://zqhxuyuan.github.io/"
     }
 ]
