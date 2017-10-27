@@ -95,16 +95,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "kafka",
+        href: "https://kafka.apache.org/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "elastic",
+        href: "https://www.elastic.co/cn"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "相关博客1",
+        href: "http://www.jasongj.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "相关博客2",
+        href: "http://zqhxuyuan.github.io/"
     }
 ]
